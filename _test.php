@@ -3,6 +3,9 @@ include 'core/init.php';
 include 'includes/overall/header.php'; 
 
 //add a line
+//add a lin2
+//add a lin3
+//add a lin4
 // $data = user_data(1, 'username','snumber', 'password');
 // if (create_db_files('s0testsomething', 'theshit_lal', '1231231')===true){
 // 	echo'yes';
