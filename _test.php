@@ -14,7 +14,7 @@ include 'includes/overall/header.php';
 // 		if (create_user_mysql($reg_data['username'], $reg_data['password']) === true) {
 // 			if (grant_user_database($reg_data['snumber'], $reg_data['username']) ===true) {
 // 				echo'success!!';
-// 			}asdasdasdasdasdasaaaaasa
+// 			}asdasdasdasdasdasaaaaasaa
 // 		}
 // 	}
 // }
